@@ -11,7 +11,7 @@ build:
     - npm run build
   artifacts:
     paths:
-      - public
+      - static
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
@@ -36,6 +36,6 @@ pages:
     - build # Pulls in the artifacts from the build stage
   artifacts:
     paths:
-      - public # Required artifact of Gitlab pages
+      - static # Required artifact of Gitlab pages
   only:
     - master
