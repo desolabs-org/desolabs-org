@@ -12,8 +12,6 @@ build:
   artifacts:
     paths:
       - public
-      - static
-      - src
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:

@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/gatsby-serif-theme",
-        "image": "/images/social/github.svg"
+        "name": "Gitlab",
+        "link": "https://gitlab.com/love4src/desolabs",
+        "image": "/images/social/gitlab.svg"
     },
     {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "/images/social/twitter.svg"
+        "name": "BitClout",
+        "link": "https://bitclout.com/u/desolabs",
+        "image": "/images/social/gitlab.svg"
     }
 ]

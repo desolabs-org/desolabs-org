@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "DeSo node deployment",
+    "description": "We help you start developing on your own DeSo node.",
     "image": "/images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Bounty development",
+    "description": "We drive the developers towards features we all need.",
     "image": "/images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Ecosystem support",
+    "description": "We reward communities building on the DeSo blockchain.",
     "image": "/images/features/noun_3d modeling_1885342.svg"
   }
 ]
