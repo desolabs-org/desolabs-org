@@ -1,4 +1,4 @@
-image: node:14
+image: node:16.5
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -12,25 +12,10 @@ build:
   artifacts:
     paths:
       - public
-      - static
   cache:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
       - node_modules/
-      - public/
-      - .cache/
-
-test:
-  stage: build
-  script:
-    - npm install
-    - npm test
-  cache:
-    key: ${CI_COMMIT_REF_SLUG}
-    paths:
-      - node_modules/
-      - public/
-      - .cache/
 
 pages:
   image: alpine:latest
@@ -42,6 +27,5 @@ pages:
   artifacts:
     paths:
       - public # Required artifact of Gitlab pages
-      - static
   only:
     - master
