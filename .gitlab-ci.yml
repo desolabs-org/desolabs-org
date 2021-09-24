@@ -17,6 +17,8 @@ build:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
       - node_modules/
+      - public/
+      - .cache/
 
 test:
   stage: build
@@ -27,6 +29,8 @@ test:
     key: ${CI_COMMIT_REF_SLUG}
     paths:
       - node_modules/
+      - public/
+      - .cache/
 
 pages:
   image: alpine:latest
