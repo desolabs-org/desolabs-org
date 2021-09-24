@@ -1,6 +1,6 @@
 {
     "homepage": {
-        "show_call_box": true
+        "show_call_box": false
     },
     "logo": {
         "mobile": "/images/logo/logo-mobile.svg",
@@ -10,14 +10,14 @@
     },
     "homepage_meta_tags": {
         "meta_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
-        "meta_og_title": "Gatsby Serif Theme",
+        "meta_og_title": "Community DeSo Labs",
         "meta_og_type": "website",
-        "meta_og_url": "https://gatsby-serif.netlify.app/",
+        "meta_og_url": "https://desolabs.org/",
         "meta_og_image": "https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png",
         "meta_og_description": "Serif is a modern business theme for Gatsby. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated.",
         "meta_twitter_card": "summary",
-        "meta_twitter_site": "@zerostaticio",
-        "meta_twitter_creator": "@zerostaticio"
+        "meta_twitter_site": "@desolabs",
+        "meta_twitter_creator": "@atucholka"
     },
     "footer": {
         "copyright_text": "Free Gatsby theme by",
