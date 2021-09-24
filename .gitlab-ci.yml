@@ -37,5 +37,5 @@ pages:
   artifacts:
     paths:
       - public # Required artifact of Gitlab pages
-  # only:
-  #   - master
+  only:
+    - master
