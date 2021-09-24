@@ -1,80 +1,42 @@
-# Gatsby Template for GitLab Pages
+# Gatsby Serif Theme
 
-Examples [Gatsby](https://www.gatsbyjs.org/) website using [GitLab pages](https://about.gitlab.com/product/pages/).
+Serif is a beautiful small business theme for Gatsby. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-## 🚀 Quick start
+[Live Demo](https://gatsby-serif.netlify.com/) | 
+[Zerostatic Themes](https://www.zerostatic.io/)
 
-1. **Get the code** 
-   
-   For, clone, or download this project. You can also start with a [new GitLab project from template](https://gitlab.com/projects/new#create-from-template) and choose [Gatsby](https://gitlab.com/gitlab-org/project-templates/gatsby).
+![Gatsby Serif Theme screenshot](https://www.zerostatic.io/theme/gatsby-serif/gatsby-serif-screenshot.png)
 
-2.  **Start developing.**
+## Theme features
 
-    Navigate into your new site’s directory and start it up.
+- Gatsby v3
+- Multi-page theme (not just a blog) that uses Markdown for multiple content-types/templates. It uses `gatsby-transformer-remark` and has several examples of querying and filtering `allMarkdownRemark`
+- Includes a graphql query in `gatsby-node.js` that creates pages and templates by content type based on the folder `src/pages/services`, `src/pages/team`,
+- Services (Markdown)
+- Team (Markdown)
+- Testimonials (Markdown)
+- Features (Data)
+- SCSS using `gatsby-plugin-sass`
+- Responsive design
+- Bootstrap 4 grid and media queries only
+- Responsive menu
+- Robust example content included
+- Royalty free illustrations included
+- SEO Titles & Meta using `gatsby-plugin-react-helmet`
+- ESLint
 
-    ```shell
-    cd my-project/
-    gatsby develop
-    ```
+## Install
 
-3.  **Open the source code and start editing!**
+gatsby 3 and node-sass 5 requires node v14 or higher
 
-    Your site is now running at `http://localhost:8000`!
+```
+npm install
+```
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+```
+npm run develop
+```
 
-    Open your project directory directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
-
-4. **Deploy with GitLab CI and GitLab Pages**
-   
-   This project's static Pages are built by GitLab CI, following the steps defined in [`.gitlab-ci.yml`](./gitlab-ci.yml) then deployed to [GitLab pages](https://docs.gitlab.com/ee/user/project/pages/).
-
-## 🧐 What's inside?
-
-A quick look at the top-level files and directories you'll see in a Gatsby project.
-
-    .
-    ├── node_modules
-    ├── src
-    ├── .gitignore
-    ├── .prettierrc
-    ├── gatsby-browser.js
-    ├── gatsby-config.js
-    ├── gatsby-node.js
-    ├── gatsby-ssr.js
-    ├── LICENSE
-    ├── package-lock.json
-    ├── package.json
-    └── README.md
-
-1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
-
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
-
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
-
-4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
-
-5.  **`gatsby-browser.js`**: This file is where Gatsby expects to find any usage of the [Gatsby browser APIs](https://www.gatsbyjs.org/docs/browser-apis/) (if any). These allow customization/extension of default Gatsby settings affecting the browser.
-
-6.  **`gatsby-config.js`**: This is the main configuration file for a Gatsby site. This is where you can specify information about your site (metadata) like the site title and description, which Gatsby plugins you’d like to include, etc. (Check out the [config docs](https://www.gatsbyjs.org/docs/gatsby-config/) for more detail).
-
-7.  **`gatsby-node.js`**: This file is where Gatsby expects to find any usage of the [Gatsby Node APIs](https://www.gatsbyjs.org/docs/node-apis/) (if any). These allow customization/extension of default Gatsby settings affecting pieces of the site build process.
-
-8.  **`gatsby-ssr.js`**: This file is where Gatsby expects to find any usage of the [Gatsby server-side rendering APIs](https://www.gatsbyjs.org/docs/ssr-apis/) (if any). These allow customization of default Gatsby settings affecting server-side rendering.
-
-9.  **`LICENSE`**: Gatsby is licensed under the MIT license.
-
-10. **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
-
-11. **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
-
-12. **`README.md`**: A text file containing useful reference information about your project.
-
-## 🎓 Learning Gatsby
-
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
-
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
-
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+```
+npm run build
+```
