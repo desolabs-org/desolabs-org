@@ -2,7 +2,7 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'DesoLabs Community',
+    title: 'Deso Labs Community',
     description: 'dl-theme'
   },
   plugins: [

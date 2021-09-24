@@ -1,17 +1,17 @@
 [
   {
     "title": "DeSo node deployment",
-    "description": "We help you start developing on your own DeSo node.",
+    "description": "We help you start developing on your own DeSo node. You will get an integrated development and production environment with a DeSo node and frontend repository ready for further development. We will also support you to make sure you get started in a matter of days.",
     "image": "/images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Bounty development",
-    "description": "We drive the developers towards features we all need.",
+    "description": "We drive the developers towards features we all need. We organize community events, hackathons, and support toolmakers to work on the bredth of the DeSo ecosystem. You can support the community development at large, or contact us for a more targetted requests.",
     "image": "/images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Ecosystem support",
-    "description": "We reward communities building on the DeSo blockchain.",
+    "description": "We reward communities building on the DeSo blockchain. Each month, we use collected DeSo tokens to give back to the community of DeSo technology builders, developers, and node operators.",
     "image": "/images/features/noun_3d modeling_1885342.svg"
   }
 ]
