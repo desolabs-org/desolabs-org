@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team consists of several BitClout / DeSo OGs, but most importantly - we are supported by an amazing community helping us all grow.

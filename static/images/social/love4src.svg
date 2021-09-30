@@ -5,7 +5,7 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg8"
-   sodipodi:docname="logo-mobile.svg"
+   sodipodi:docname="love4src.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,13 +27,13 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="30.228815"
-     inkscape:cy="29.96365"
+     inkscape:zoom="16"
+     inkscape:cx="19.21875"
+     inkscape:cy="19.40625"
      inkscape:window-width="1786"
      inkscape:window-height="1111"
-     inkscape:window-x="317"
-     inkscape:window-y="342"
+     inkscape:window-x="743"
+     inkscape:window-y="276"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg8">
     <sodipodi:guide
@@ -57,7 +57,7 @@
        id="tspan1356"
        x="15.86812"
        y="28.140276"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.3333px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';fill:#f26419;stroke-width:1.23194;fill-opacity:1">#</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:33.3333px;font-family:Lato;-inkscape-font-specification:'Lato Heavy';fill:#f0f0f0;fill-opacity:1;stroke-width:1.23194">#</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

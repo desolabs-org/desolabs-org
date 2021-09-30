@@ -18,7 +18,7 @@ const Home = props => {
       <Helmet>
         <meta
           name="description"
-          content="We Support Decentralized Social Community Development"
+          content="We are here to support DeSo communities and node operators with the know-how, tools, and recognition for their work."
         />
       </Helmet>
 
@@ -73,7 +73,7 @@ const Home = props => {
                   <div className="feature">
                     {node.image && (
                       <div className="feature-image">
-                        <img src={node.image} />
+                        <img src={node.image} width="5rem"/>
                       </div>
                     )}
                     <h2 className="feature-title">{node.title}</h2>

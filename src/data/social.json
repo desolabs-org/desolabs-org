@@ -5,8 +5,13 @@
         "image": "/images/social/gitlab.svg"
     },
     {
+        "name": "Love4src",
+        "link": "https://love4src.com/u/desolabs",
+        "image": "/images/social/love4src.svg"
+    },
+    {
         "name": "BitClout",
         "link": "https://bitclout.com/u/desolabs",
-        "image": "/images/social/gitlab.svg"
+        "image": "/images/social/cloutlogo_white.svg"
     }
 ]

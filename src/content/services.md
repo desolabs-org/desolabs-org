@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services to grow your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Focus on developing your core features. Leverage the know built up by the DeSo Labs to get your developers working with DeSo in a matter of days. Get ahead with professional support.
