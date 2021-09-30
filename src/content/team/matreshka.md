@@ -3,7 +3,7 @@ title: 'matreshka - Anna Solodovnikova'
 date: 2018-12-20T13:44:55+10:00
 draft: false
 image: '/images/team/matreshka.jpg'
-jobtitle: 'Co-founder, Evangelist'
+jobtitle: 'Evangelist'
 weight: 4
 ---
 
