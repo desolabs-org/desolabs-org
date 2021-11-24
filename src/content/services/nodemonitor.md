@@ -1,11 +1,11 @@
 ---
-title: "Accounting"
+title: "Node Monitor"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Node Monitor Tracks Community Nodes in the DeSo Ecosystem.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
