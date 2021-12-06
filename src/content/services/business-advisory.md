@@ -10,24 +10,23 @@ DeSoLabs provides regonition to community nodes and node operators. 50% of the D
 
 ## Nodes
 
-| header | header |
-| ------ | ------ |
-| DeSocialWorld https://desocialworld.com/
-DeVerso https://deverso.io/
-GiftClout https://www.giftclout.com/
-NachoAverage https://nachoaverage.com/
-Netikitt https://netikitt.com/
-Creatiers https://creatiers.co/
-NFTz Zone https://nftz.zone/
-DiamondApp https://diamondapp.com/
-CloutCast https://cloutcast.io/ | StetNode https://stetnode.com/
-Beyond https://beyond.restartu.org/
-tijn's club https://tijn.club/
-Love4src https://love4src.com/
-Supernovas https://supernovas.app/
-DeSo foundation https://node.deso.org/
-Cooperativa Local https://node.cooperativalocal.org/
-PinkStar https://pinkstar.fans/ |
-| cell | cell |
+| Name | Link |
+| DeSocialWorld https://desocialworld.com/ 
+|DeVerso | https://deverso.io/
+|GiftClout | https://www.giftclout.com/
+|NachoAverage | https://nachoaverage.com/
+|Netikitt | https://netikitt.com/
+|Creatiers | https://creatiers.co/
+|NFTz Zone | https://nftz.zone/
+|DiamondApp | https://diamondapp.com/
+|CloutCast | https://cloutcast.io/ 
+|StetNode | https://stetnode.com/
+|Beyond | https://beyond.restartu.org/
+|tijn's club | https://tijn.club/
+|Love4src | https://love4src.com/
+|Supernovas | https://supernovas.app/
+|DeSo foundation | https://node.deso.org/
+|Cooperativa Local | https://node.cooperativalocal.org/
+|PinkStar | https://pinkstar.fans/ |
 
 
