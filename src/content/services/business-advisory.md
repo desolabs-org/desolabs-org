@@ -1,61 +1,90 @@
 ---
-title: "Business Advisory"
+title: "Nodes"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+DeSoLabs provides regonition to community nodes and node operators. 50% of the DeSo raised monthly is allocated to actives nodes in the deso ecosystem. Nodes are an intergral part of the ecosystem and should be recognised for their contributions.  The power of decentralization becomes stronger with more nodes online.
 
-## Inter pectore totidem
+## Nodes
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
-
-## Novis hunc qua erat caecisque
-
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
-
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+<table class="table has-text-centered">
+            <thead>
+            <tr>
+                <th>Data updated at</th>
+                <th>Node name</th>
+                <th>Max Txn fee</th>
+                <th>DESO/USD</th>
+                <th>Blocks</th>
+                <th>Indexed</th>
+                <th>Chain Stamp</th>
+            </tr>
+            </thead>
+            <tfoot>
+            <tr>
+                <th>Data updated at</th>
+                <th>Node name</th>
+                <th>Max Txn fee</th>
+                <th>DESO/USD</th>
+                <th>Blocks</th>
+                <th>Indexed</th>
+                <th>Chain Stamp</th>
+            </tr>
+            </tfoot>
+            <tbody id="node-monitors">
+            
+            <tr id="pinkstar" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="" class="node-url"><span class="node-name">PinkStar</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="desocial" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://desocialworld.com" class="node-url"><span class="node-name">DeSocialWorld</span></a></td><td class="node-fee">2000</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="deverso" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://deverso.io" class="node-url"><span class="node-name">DeVerso</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="giftclout" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://members.giftclout.com" class="node-url"><span class="node-name">GiftClout</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="nacho-average" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://nachoaverage.com" class="node-url"><span class="node-name">NachoAverage</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="netikitt" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://netikitt.app" class="node-url"><span class="node-name">Netikitt</span></a></td><td class="node-fee">?</td><td class="usd-rate">?</td><td class="chain-height">?</td><td class="index-height">?</td><td class="chain-stamp">?</td>                    </tr>
+            
+            <tr id="creatiers" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://creatiers.co" class="node-url"><span class="node-name">Creatiers</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="nftz-zone" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://nftz.zone" class="node-url"><span class="node-name">NFTz Zone</span></a></td><td class="node-fee">10000</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">?</td><td class="chain-stamp">?</td>                    </tr>
+            
+            <tr id="diamondapp" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://diamondapp.com" class="node-url"><span class="node-name">DiamondApp</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="cloutcast" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://cloutcast.io" class="node-url"><span class="node-name">CloutCast</span></a></td><td class="node-fee">?</td><td class="usd-rate">?</td><td class="chain-height">?</td><td class="index-height">?</td><td class="chain-stamp">?</td>                    </tr>
+            
+            <tr id="stetnode" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://stetnode.com" class="node-url"><span class="node-name">StetNode</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="restartu" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://beyond.restartu.org" class="node-url"><span class="node-name">Beyond</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="tijn-club" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://tijn.club" class="node-url"><span class="node-name">tijn's club</span></a></td><td class="node-fee">10000</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="l4s" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://love4src.com" class="node-url"><span class="node-name">Love4src</span></a></td><td class="node-fee">2000</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="supernovas" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://supernovas.app" class="node-url"><span class="node-name">Supernovas</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="deso" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://node.deso.org" class="node-url"><span class="node-name">DeSo foundation</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            <tr id="cooplocal" class="node-monitor-enabled">
+                <td class="data-updated">12/6/2021, 3:25:20 PM</td><td><a href="https://node.cooperativalocal.org" class="node-url"><span class="node-name">Cooperativa Local</span></a></td><td class="node-fee">0</td><td class="usd-rate">103.75</td><td class="chain-height">84343</td><td class="index-height">84343</td><td class="chain-stamp">12/6/2021, 3:11:34 PM</td>                    </tr>
+            
+            </tbody>
+        </table>
