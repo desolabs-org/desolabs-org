@@ -13,7 +13,7 @@ DeSoLabs provides regonition to community nodes and node operators. 50% of the D
 
 | Name | Link |
 | ------ | ------ |
-| DeSocialWorld https://desocialworld.com/ 
+| DeSocialWorld | https://desocialworld.com/ 
 |DeVerso | https://deverso.io/
 |GiftClout | https://www.giftclout.com/
 |NachoAverage | https://nachoaverage.com/
