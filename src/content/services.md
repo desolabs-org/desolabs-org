@@ -5,6 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services to grow your business
+# DeSoLabs
 
-Focus on developing your core features. Leverage the know built up by the DeSo Labs to get your developers working with DeSo in a matter of days. Get ahead with professional support.
+DeSo Labs supports the infrastructure of the DeSo blockchain by focusing its efforts on fostering the community of node operators and developers. We do this by facilitating the fundamental community dynamics surrounding the development and operations of software backing the DeSo blockchain - recognition for contributions to the technology ecosystem of DeSo (DeSoTech).
+
