@@ -6,7 +6,11 @@ draft: false
 weight: 2
 ---
 
-DeSoLabs provides regonition to community nodes and node operators. 50% of the DeSo raised monthly is allocated to actives nodes in the deso ecosystem. Nodes are an intergral part of the ecosystem and should be recognised for their contributions.  The power of decentralization becomes stronger with more nodes online.
+**Node operators and development**
+
+DeSo collected through DeSoLabs will be distributed in equal shares to node operators. This is designed to recognize people running the community nodes of DeSo and also to allow operators to recoup parts of the operational cost.
+We recommend that node operators will use approximately half of the DeSo they receive on building new features of their choice and through the bounty program seeded and facilitated by the DeSo community. This approach promotes collaborative development efforts, and allows the node operators to have direct impact on the direction of the development efforts.
+Nodes are tested for uptime, as registered by DeSo Ninja status tracker https://deso.ninja/node-monitor. 
 
 ## Nodes
 
