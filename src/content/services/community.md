@@ -8,7 +8,8 @@ weight: 3
 
 **Community**
 
-Open to all DeSo. Those that are coin holders of DeSoLabs or Love4src are allowed on the stage to speak. These meetings are task oriented, with developers raising bounty-related issues for discussion, achievements are being validated, roadmaps are being discussed and transparency of development work is promoted.
+DeSoLabs is community funded and operated. Giving the users a voice and a chance at directing feature development. Meetings will be held weekly for members of the community to voice their needs and provide feedback.
+Coin holders of DeSoLabs or Love4src are allowed on the stage to speak. These meetings are task oriented, with developers raising bounty-related issues for discussion, achievements are being validated, roadmaps are being discussed and transparency of development work is promoted.
 
 
 **Coin Holder Benefits**
