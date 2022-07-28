@@ -4,48 +4,13 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+**About the initiative**
 
-## Ne verba patulosque numen vix libet
+DeSo Labs supports the infrastructure of the DeSo blockchain by focusing its efforts on fostering the community of node operators and developers. We do this by facilitating the fundamental community dynamics surrounding the development and operations of software backing the DeSo blockchain - recognition for contributions to the technology ecosystem of DeSo (DeSoTech).
+As a continuous effort run in monthly cycles, DeSoLabs will raise DeSo through coin purchases and designated donations. All contributions are public on the blockchain to assure full transparency of the fundraising activity and its outcomes.
+The account will keep the FR at ~99.99% to reduce the chance for any coin related shenanigans or speculation. Think of this account as a support and donation wallet for the community developers and node operators of the DeSo blockchain.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+**Support for DeSoTech**
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+To provide recognition to the node operators, developers, tool makers, and to stimulate the evolution of the DeSo technology - at the end of each month, all DeSo raised will be split among all participating community nodes and development activities aimed at growing the ecosystem of the DeSo blockchain.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

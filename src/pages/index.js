@@ -18,7 +18,7 @@ const Home = props => {
       <Helmet>
         <meta
           name="description"
-          content="We are here to support DeSo communities and node operators with the know-how, tools, and recognition for their work."
+          content="We are here to support the DeSo community and node operators with the know-how, tools, and recognition for their work."
         />
       </Helmet>
 
